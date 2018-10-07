@@ -15,7 +15,7 @@ To improve the person detection in the region of interest, we use OpenCV "Cascad
 
 ## Web
 
-When a person is detected in the region of interest we save the full frame in the web directory (wwww). With the library "nanogallery2" we can see the all the frame.
+When a person is detected in the region of interest we save the full frame in the web directory (www). With the library "nanogallery2" we can see the all the frame.
 
 
 ![Web gallery 1](/images/g1.jpg)
