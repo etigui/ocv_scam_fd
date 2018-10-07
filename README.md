@@ -1,2 +1,2 @@
-# ocv_scam_fd
-OpenCV security cam face detection and capture
+# OpenCV security cam and face detection
+
