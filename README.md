@@ -7,4 +7,4 @@ Capture webcam video frame when a face is detected in the region of interest (RO
 In the OpenCV library you can find "selectROI" which allow to select a bounding box or a rectangular region of interest (ROI) in an frame. With that compenent we can select a specific region of interest where to detect face and not someheree else.
 
 
-![ROI][images/roi.gif]
+![ROI][/images/roi.gif]
