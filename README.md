@@ -13,7 +13,7 @@ In the OpenCV library you can find "selectROI" which allow to select a bounding 
 To improve the person detection in the region of interest, we use OpenCV "CascadeClassifier" fonction to detecte face and HOG detector function to detect the whole body. We use that to remove false positive.
 
 
-# Web
+## Web
 
 When a person is detected in the region of interest we save the full frame in the web directory (wwww). With the library "nanogallery2" we can see the all the frame.
 
