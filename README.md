@@ -1,4 +1,4 @@
-# OpenCV security cam and person detection
+# OpenCV security cam (person detection)
 
 Capture webcam video frame when a person is detected in the region of interest (ROI). Then save the full frame captured in a specific folder such as web directory (wwww).
 
